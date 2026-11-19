@@ -1,2 +1,4 @@
-# BJ_Algorithm_Solve_Practice
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+## 알고리즘, 자료구조 공부
+
+* 프로그래머스, 백준 문제를 푼 기록입니다.
+* 알고리즘 자체에 대한 공부도 포함합니다.
